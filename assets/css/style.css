@@ -75,6 +75,7 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    max-height: 200px;
 }
 
 .benefits {
@@ -118,19 +119,7 @@ p {
     text-align: center;
 }
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+ .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -163,15 +152,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
+.content img {
     max-height: 200px;
 }
 
