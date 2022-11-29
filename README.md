@@ -14,6 +14,10 @@ N/A
 ## Usage
 Each section in the webpage contains an example of semantic element and what they are used.
 
+![Screenshot of the website](assets/images/Website Screenshot.png)
+
+
+
 
 ## Credits
 
@@ -24,3 +28,7 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
+
+## Link
+click on the click below to view the site on a new tab
+https://preshy59.github.io/week-1-challenge/
